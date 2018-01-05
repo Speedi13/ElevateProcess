@@ -1,5 +1,5 @@
 # ElevateProcess
-Elevate a process after it started
+Elevate a process after it started using EPROCESS Token Hijacking
 
 Supported are only 64Bit Systems
 
